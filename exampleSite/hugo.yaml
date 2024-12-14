@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"  # please update this to your actual URL
+baseurl: "https://example.org/" # please update this to your actual URL
 languageCode: "en-us"
 title: "A minimal Hugo website"
 theme: "hugo-xmin"
@@ -43,10 +43,10 @@ markup:
         enable: true
         delimiters:
           block:
-          - - \[
-            - \]
-          - - $$
-            - $$
+            - - \[
+              - \]
+            - - $$
+              - $$
           inline:
-          - - \(
-            - \)
+            - - \(
+              - \)
